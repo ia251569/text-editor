@@ -1,2 +1,3 @@
 # text-editor
- I'm delighted to share that have been selected as the codeclaus at Coding  for 1 months of internship. I want to thank  campus Team and Coding codeclause for giving me this wonderful offers
+ HERE IS THE LINK WHERE I HAVE UPLOADED THE TEXT EDITOR  PLEASE GO THROUGH THE LINK, BY MISTAKE I HAVE INSERTED THE WRONG LINK WHILE SUBMISSION TIME 
+https://github.com/ia251569/blog-app
